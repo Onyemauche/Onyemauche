@@ -1,16 +1,34 @@
 Hi there, I'm Onyemauche! 👋
-🚀 Aspiring Python Developer | Computer Vision & AI/ML Enthusiast
 
-About Me
-👀 I’m passionate about Python development and building a career in Computer Vision, AI/ML.
-🌱 Currently learning Python, PyTorch, OpenCV, and planning to explore TensorFlow later.
-💡 Excited to work on Computer Vision projects, experiment with deep learning, and contribute to open-source.
-💞️ Looking to collaborate on Python and Computer Vision projects to grow and learn with the community.
+I’m an industrial engineering professional with 9+ years of experience across manufacturing, electromechanical systems, production operations, equipment reliability, and industrial automation.
+
+My experience has been built on the factory floor—troubleshooting equipment, supporting production, improving reliability, working with PLC-controlled systems, sensors, pneumatics, conveyors, robotics, and packaging machinery, while applying TPM, preventive maintenance, continuous improvement, and process-management principles.
+
+I’m now expanding that industrial foundation into Python, data analytics, automation, and AI.
+
+My goal is to bridge the gap between physical industrial systems and digital technologies—using software and data to automate repetitive work, analyze operational performance, identify equipment and process problems, and build practical solutions for manufacturing and industrial businesses.
+
+I’m particularly interested in:
+
+• Python-based automation and data processing
+• SQL and industrial data analysis
+• AI-assisted workflow automation
+• Manufacturing and maintenance analytics
+• Industrial IoT and connected equipment
+• Predictive maintenance and reliability analytics
+• Process improvement and operational intelligence
+• Integrating AI and software with real-world industrial processes
+
+What I bring is not just technical software knowledge, but real-world manufacturing context. I understand the machines, processes, people, constraints, and operational problems that the data represents.
+
+I’m building toward opportunities where industrial experience + software + data + AI can create measurable business value—particularly in remote and digitally enabled roles.
+
+I’m open to connecting with professionals and organizations working at the intersection of manufacturing, automation, data, AI, reliability, and industrial technology.
 
 How to Reach Me
 📫 Feel free to connect with me:
 
-LinkedIn: https://www.linkedin.com/in/onyemauche-williamson-/
+LinkedIn: https://www.linkedin.com/in/onyemauchewilliamson
 Email: onyemauche.w@gmail.com
 
 Fun Stuff
