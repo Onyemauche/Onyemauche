@@ -1,4 +1,4 @@
-Hi there, I'm Onyemauche! 👋
+Hi, I'm Onyemauche! 👋
 
 I’m an industrial engineering professional with 9+ years of experience across manufacturing, electromechanical systems, production operations, equipment reliability, and industrial automation.
 
